@@ -1,0 +1,23 @@
+#engr0{
+	width:350px;
+	height:350px;
+	border-radius: 50%;
+}
+
+#engr1{
+	width: 230px;
+	height: 230px;
+	border-radius: 50%;
+}
+
+#engr2{
+	width: 230px;
+	height: 180px;
+	border-radius: 20%;
+}
+
+#engr3{
+	width: 350px;
+	height: 320px;
+	border-radius: 10%;
+}

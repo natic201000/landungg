@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Oswald|Roboto+Condensed&display=swap");
+@import url("component/container.css");
+@import url("component/engr.css");
+@import url("component/button.css");
+@import url("component/banner.css");
+@import url("component/card.css");
+
+
+
+
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+	background-color: #f6f6f6;
+	font-size: 18px;
+}
+
+h1, h2, h3{
+	font-family: 'Oswald', sans-serif;
+	font-weight: normal;
+}
+
+a{
+	text-decoration: none;
+}
+
